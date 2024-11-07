@@ -3,7 +3,8 @@
 
 
     const sumArray = (numbers: number[]): number => {
-        return numbers.reduce((primaryNum, recentNum) => primaryNum + recentNum, 0)
+        const sumArrayOfNumber = numbers.reduce((primaryNum, recentNum) => primaryNum + recentNum, 0);
+        return sumArrayOfNumber;
     }
 
     console.log(sumArray([1, 2, 33]));

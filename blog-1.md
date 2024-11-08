@@ -1,6 +1,6 @@
 <!-- The significance of union and intersection types in Typescript. -->
 
-The Relevance of Union Types And Intersection Types In TypeScript Regarding Application
+# The Relevance of Union Types And Intersection Types In TypeScript Regarding Application
 
 TypeScript, which is a strict syntactical superset of JavaScript, provides various advantages to developers as it allows for early error detection and code that is more expressive. Two of the types with the most love in type system of typescript are Union Types and Intersection Types. Making use of these types can enhance your TypeScript code significantly by making it more adaptable and secure. In this post, we’ll elaborate on these topics and illustrate how they are used as well as their significance.
 
